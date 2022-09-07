@@ -35,6 +35,7 @@ html{
 body{
     background: var(--secundary-color);
     padding-left: 30rem;
+    scroll-behavior: smooth;
 }
 
 section{
